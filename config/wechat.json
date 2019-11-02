@@ -1,0 +1,15 @@
+{
+    "token":"microport",
+    "appID":"wx8ea653b59dbd08cf",
+    "appScrect":"d2e0f8b78e1b3fda431e03c45d6a7537",
+    "encodingAESKey":"JNqAnyzGZIZ8sBsUHzOOFLldRHD5bsErG60FxCD0xuB ",
+    "apiDomain":"https://api.weixin.qq.com/",
+    "apiURL":{
+        "accessTokenApi":"%scgi-bin/token?grant_type=client_credential&appid=%s&secret=%s",
+        "userInfo":"%scgi-bin/user/info?access_token=%s&openid=%s&lang=zh_CN",
+        "snsapi_base":"%ssns/oauth2/access_token?appid=%s&secret=%s&code=%s&grant_type=authorization_code",
+        "createMenu":"%scgi-bin/menu/create?access_token=%s",
+        "queryMenu":"%scgi-bin/menu/get?access_token=%s",
+        "deleteMenu":"%scgi-bin/menu/delete?access_token=%s"
+    }
+}

@@ -1,0 +1,19 @@
+{
+     "button":[
+        {	
+          "type":"view",
+          "name":"公众号",
+           "url":"http://wxweb.zzanli.com/consultList"
+        },
+        {	
+          "type":"view",
+          "name":"小程序",
+          "url":"http://wxmp.zzanli.com"
+        },
+        {	
+          "type":"view",
+          "name":"个人信息",
+          "url":"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx8ea653b59dbd08cf&redirect_uri=http%3a%2f%2fwxapi.zzanli.com%2foauth%2findex&response_type=code&scope=snsapi_base&state=STATE#wechat_redirect"
+        }
+     ]
+}

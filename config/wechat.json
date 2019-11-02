@@ -1,7 +1,7 @@
 {
-    "token":"microport",
-    "appID":"wx8ea653b59dbd08cf",
-    "appScrect":"d2e0f8b78e1b3fda431e03c45d6a7537",
+    "token":"your token",
+    "appID":"your appId",
+    "appScrect":"your appScrect",
     "encodingAESKey":"JNqAnyzGZIZ8sBsUHzOOFLldRHD5bsErG60FxCD0xuB ",
     "apiDomain":"https://api.weixin.qq.com/",
     "apiURL":{
